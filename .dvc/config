@@ -1,0 +1,6 @@
+[core]
+    remote = myremote_g
+['remote "myremote_g"']
+    url = gdrive://16F2qZ-6PJi-7xaTCnEj-W0bQ3nK_Ab0l
+    gdrive_client_id = 942816041188-c5c0g1h2fcstger89qr6bv0rp0nd8s01.apps.googleusercontent.com
+    gdrive_client_secret = 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
